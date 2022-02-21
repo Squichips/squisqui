@@ -1,0 +1,14 @@
+marquee{
+    font-size: 150px;
+   color: rgb(4, 0, 255);
+      text-shadow:  0 0 7px #fff, 
+               0 0 10px #fff, 
+               0 0 42px rgb(230, 18, 124),   
+               0 0 77px rgb(230, 18, 124), 
+               0 0 100px rgb(230, 18, 124) 
+}
+
+
+body{
+    background-color: black;
+}
